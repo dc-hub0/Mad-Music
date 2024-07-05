@@ -1,6 +1,6 @@
-# Musify [🔗 Live](https://techboydk.github.io/musify/)
+# Mad-Music 
 
-Musify is a React-based music web application that leverages the YouTube API to provide users with an engaging music streaming experience. The application features responsive design, online/offline status detection, and playlist management.
+Mad-Music is a React-based music web application that leverages the YouTube API to provide users with an engaging music streaming experience. The application features responsive design, online/offline status detection, and playlist management.
 
 ## Features
 
@@ -20,8 +20,8 @@ Musify is a React-based music web application that leverages the YouTube API to 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/techboydk/musify.git
-   cd musify
+   git clone https://github.com/dc-hub0/Mad-Music.git
+   cd Mad-Music
    ```
 
 2. **Install dependencies**:
@@ -64,6 +64,4 @@ Musify is a React-based music web application that leverages the YouTube API to 
 
 Contributions are welcome! Please fork the repository and submit a pull request for review.
 
-## Contact
 
-For any inquiries or feedback, please contact [Contact Me]
